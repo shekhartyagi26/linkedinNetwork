@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import 'https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css'; */
+
+.circularImage { 
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
